@@ -1,7 +1,7 @@
 ## 👋 Welcome!
 
-I'm a Software Engineer at MVP Workshop and a Protocol Engineer at 0xCurvy, with a background in Information Systems and Technologies from the Faculty of Organizational Sciences, University of Belgrade. 
-I'm passionate about building impactful software and constantly pushing the boundaries of what I can do — both professionally and independently.
+I'm a Software Engineer and Web3 enthusiast, with a background in Information Systems and Technologies from the Faculty of Organizational Sciences, University of Belgrade. 
+I'm passionate about building impactful software and constantly pushing the boundaries of what I can do, both professionally and independently.
 ---
 
 ### 🎓 Education & Tech Stack
