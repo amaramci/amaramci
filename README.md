@@ -7,7 +7,7 @@ I'm passionate about building impactful software and constantly pushing the boun
 ### 🎓 Education & Tech Stack
 
 **University Technologies:**  
-`Python`, `C`, `C++`, `C#`, `Java`, `R`, `React`, `Assembler`
+`C`, `C++`, `C#`, `Java`, `R`, `React`, `Assembler`, `Python`
 
 **Skills & Tools:**
 
